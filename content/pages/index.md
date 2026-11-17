@@ -16,6 +16,8 @@ A complete, structured course of study for an advanced student with a serious co
 
 ## How the school day works
 
+The language of instruction is English. Latin and Spanish are daily subjects.
+
 1. **Retrieval first.** Each day opens with five minutes of writing from memory what was learned before. Recalling is what makes knowledge stick.
 2. **Follow the timetable in order.** Each block lists its time, its method and its source text.
 3. **Work in writing.** Every exercise is answered by hand in the subject notebook before the answer key is opened. Keys are on separate pages for this reason.

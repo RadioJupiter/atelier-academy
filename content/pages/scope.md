@@ -59,4 +59,4 @@ Term 1: Homer, *Iliad* and *Odyssey*; Sophocles, *Antigone*; Virgil, *Aeneid* (s
 
 ## Modern language
 
-Spanish by default (see [Electives](electives.html) for alternatives): present tense and core vocabulary (Term 1), past tenses (Term 2), future, conditional and introduction to the subjunctive (Term 3), with graded readers from Term 2.
+The language of instruction for the whole course is English. Spanish is taught as a daily subject (see [Electives](electives.html) if another modern language is preferred): present tense and core vocabulary (Term 1), past tenses (Term 2), future, conditional and introduction to the subjunctive (Term 3), with graded readers from Term 2. Latin is a separate daily subject, taught from *Lingua Latina per se Illustrata*.

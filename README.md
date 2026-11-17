@@ -1,6 +1,6 @@
 # Atelier Academy
 
-A private, structured course of study for an advanced, arts-focused student: a fixed daily timetable of about six hours, placement diagnostics, a full-year scope and sequence, complete lessons with exercises and separate answer keys, and progress tracking stored only in the browser.
+A private, structured course of study for an advanced, arts-focused student: a fixed daily timetable of about six hours, placement diagnostics, a full-year scope and sequence, complete lessons with exercises and separate answer keys, and progress tracking stored only in the browser. The language of instruction is English. Latin and Spanish are taught as daily subjects.
 
 **Privacy:** the site contains no personal information, uses no accounts, analytics, cookies, fonts or scripts from other servers, and asks search engines not to index it (`noindex`). Progress checkmarks live only in the browser's localStorage.
 

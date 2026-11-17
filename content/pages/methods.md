@@ -2,6 +2,8 @@
 
 The guiding rule: for each subject, use the method with the best record of producing real competence, wherever it comes from. Where a famous method is better suited to a classroom than to one student, it is adapted, and the adaptation is stated plainly.
 
+The language of instruction is English throughout. Spanish and Latin are taught as subjects, not used as the language of the rest of the course.
+
 ## Across all subjects
 
 - **Explicit instruction with worked examples, then practice.** For new material, fully guided instruction outperforms leaving students to discover methods unaided (Kirschner, Sweller & Clark, 2006). Every lesson states the idea, shows it worked, then asks for practice.
@@ -35,6 +37,10 @@ The 19th-century academic sequence still taught in classical ateliers: line and 
 
 - **Phenomenon-based learning** from Finland: Finland's 2014 national core curriculum requires every school to run at least one multidisciplinary learning module a year, built around a theme or phenomenon (Finnish National Agency for Education). Here, each science module begins with a real phenomenon and crosses subject lines.
 - **The Russian olympiad tradition** for rigour: estimation, units in every line, and non-routine problems, the tradition of the Russian physics and mathematics olympiads and the magazine *Kvant* (founded 1970 by Kikoin and Kolmogorov).
+
+## Modern language (Spanish)
+
+The written lessons use explicit instruction of sounds, high-frequency words and present-tense grammar, with daily oral practice. Explanations and exercise instructions are in English; the Spanish to be learned is in Spanish. Italian or French may replace this block as a subject (see [Electives](electives.html)), but they are not written yet.
 
 ## Latin
 

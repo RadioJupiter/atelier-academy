@@ -18,6 +18,8 @@
 | Seminar rotation | 150 | Logic, music theory, art history, economics and personal finance, elective. |
 | **Total** | **1,850** | About 6 hours 10 minutes of instruction a day. |
 
+The language of instruction is English. The Latin and modern-language blocks are subjects: Latin from *Lingua Latina per se Illustrata*, and Spanish (unless another modern language is chosen).
+
 Literature reading (whole books) is done in free-reading time at lunch and in the evening: about 30 to 45 minutes a day.
 
 ## Rules of the timetable

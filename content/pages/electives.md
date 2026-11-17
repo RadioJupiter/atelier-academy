@@ -14,4 +14,4 @@ The Friday seminar block (30 minutes) rotates through electives. Choose two per 
 
 ## Modern language options
 
-The daily modern-language block is written in **Spanish**. Two alternatives suit an arts focus: **Italian** (the language of the Renaissance workshops and of much art terminology) and **French** (the language of the 19th-century ateliers and of the Bargue course). Each would follow the same structure as the Spanish lessons. Only Spanish is written so far; switching is a decision to make before Day 1.
+The language of instruction for every subject, including this one, is **English**. The daily modern-language *subject* is **Spanish**: the lessons teach Spanish, with explanations in English. Two alternative subjects would also suit an arts focus: **Italian** (the language of the Renaissance workshops and of much art terminology) and **French** (the language of the 19th-century ateliers and of the Bargue course). Each would follow the same structure as the Spanish lessons, still taught in English. Only the Spanish subject is written so far; switching is a decision to make before Day 1.
