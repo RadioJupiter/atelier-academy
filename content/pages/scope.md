@@ -1,6 +1,6 @@
 # Scope and sequence
 
-A 36-week year in three terms of 12 weeks, five school days a week. Weeks 1–8 are written in full (see [Lessons](lessons.html)); the rest is planned here and will be written in the same format. The Term 2 science module *Living color* is begun in weeks 5–6 rather than inventing a filler topic. Regular polygons receive a first look in week 8 (interior and exterior angles); the fuller Term 2 treatment of regular polygons and the circle’s area is still planned later. Each Friday ends with a cumulative check, and weeks 12, 24 and 36 are consolidation weeks with term examinations.
+A 36-week year in three terms of 12 weeks, five school days a week. Weeks 1–9 are written in full (see [Lessons](lessons.html)); the rest is planned here and will be written in the same format. The Term 2 science module *Living color* is begun in weeks 5–6 rather than inventing a filler topic. Regular polygons receive a first look in week 8 (interior and exterior angles); the fuller Term 2 treatment of regular polygons and the circle’s area is still planned later. Week 9 adds composition of functions and the coordinate equation of a circle, and continues *How we see* from weeks 7–8 (photoreceptors and a careful afterimage observation, still without invented cell counts). Each Friday ends with a cumulative check, and weeks 12, 24 and 36 are consolidation weeks with term examinations.
 
 ## Mathematics
 
