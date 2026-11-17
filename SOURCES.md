@@ -85,3 +85,15 @@ Every method attribution and factual claim in the lessons is traceable to one of
 - William Blake, “The Tyger,” *Songs of Experience* (1794), public domain, for imagery and metaphor.
 - Etymologies of new key terms were checked on English Wiktionary. Origins were omitted when the etymology section was missing, incomplete, or ambiguous (including *inscribed*, *photosynthesis*, *contrapositive*, *anthocyanin* beyond a brief name, and the physics word *work*).
 
+## Weeks 7 (additional sources)
+
+- Functions and function notation; graphs of y = mx + b; quadratic graphs, with the vertex from completing the square or from x = −b/(2a). π is not used as a new claim here; loci are the circle (points at a fixed distance from a center) and the perpendicular bisector (PA = PB), with Euclid III.31 named only as a contrast (the circle on diameter AB is a different locus).
+- Francis Bacon, “Of Studies” (1625), public domain. The course uses one short attributed sentence as a model of form: “Studies serve for delight, for ornament, and for ability.” No longer extract is quoted on the lesson pages.
+- Sophocles, *Antigone*: a public-domain English translation (for example Jebb 1891, or another named public-domain version) may be used in class for short, attributed quotation. The week 7 pages do not lift a long passage and do not tell the end of the play.
+- Power and the watt as an SI derived unit (1 W = 1 J/s): BIPM, *The International System of Units* (SI Brochure). The unit is named after James Watt. Torque, in a first look, is force times perpendicular distance, named in newton-meters and not called a joule.
+- Seeing: a first anatomical map (cornea, pupil, lens, retina, optic nerve, blind spot) without invented focal lengths, travel times, or receptor counts. Etymologies used: cornea from Latin cornea (tela), from cornu, “horn”; retina from Latin rētīna, from rēte, “net.”
+- Actium, 31 BCE; the settlement of 27 BCE as a conventional start of Augustus’s principate, not as a single “fall of the Republic” day. The Res Gestae Divi Augusti is treated as a first-person record (known from later copies, notably at Ankara) and as advocacy. Tacitus and Suetonius are dated to the early second century CE, about a century after Augustus’s death (14 CE).
+- Augustus of Prima Porta: a marble statue in the Vatican Museums, generally treated as a copy of a lost bronze type; no single year is assigned to the copy in the lesson. Ara Pacis Augustae: conventional dates 13 BCE (voted) and 9 BCE (dedicated), labeled conventional.
+- Latin grammar for Capitulum IX follows a public syllabus (third declension; declining ūnus, duo, trēs; invariable higher numerals as taught; quot; a large number with the genitive; cēterī). Practice sentences are original. Ørberg’s story and companion-book examples are not copied.
+- Etymologies of new key terms were checked on English Wiktionary. Origins were omitted when the etymology section was missing, incomplete, ambiguous, or the first sense was the wrong word (*function*, *parabola*, *budget*, and *torque* were omitted for those reasons).
+
