@@ -68,9 +68,6 @@
 </table>
 <p class="note">The Hear-word button uses an Italian voice as an approximation of Latin, not the speech of ancient Rome.</p>
 <p>Pronounce every letter. <em>c</em> is always like <em>k</em>; <em>v</em> like English <em>w</em>; <em>ae</em> like <em>eye</em>.</p>
-</div>
-<div class="learn" data-listen="en-US">
-<h3>Learn</h3>
 <p><strong>How this course works.</strong> Ørberg's book teaches Latin <em>through</em> Latin: every word is made clear by a picture, a map, the margin notes or the context. Do not translate the text into English in your head line by line. Read each sentence aloud, look at the map and margin, and work out the meaning from what you already know. Grammar is noticed first and named afterwards.</p>
 <p><strong>Today.</strong> Read aloud, twice, the first third of Capitulum I (to the first section break). Use the map. Then read the margin notes.</p>
 <p><strong>Notice these patterns</strong> (they are the grammar of today):</p>
@@ -136,15 +133,24 @@
 <section class="lesson" id="math"><div class="lesson-head"><h2>Mathematics · Modeling: from bar model to equation</h2><label class="done"><input type="checkbox" data-done="d01-math"> Done</label></div><p class="meta">60 min · Method: Singapore model method (part-whole, comparison and change models), then translation into algebra</p>
 <div class="learn" data-listen="en-US">
 <h3>Learn</h3>
-<p>Most errors in applied problems happen before the algebra: the relationship is misread. The Singapore model method draws each quantity as a bar. Three structures cover almost every problem: <strong>part-whole</strong> (parts make a whole), <strong>comparison</strong> (one bar is longer than the other by a difference), and <strong>change</strong> (a bar grows or shrinks). Once the bars are right, the equation is just the same relationship in symbols.</p>
-</div>
-<div class="learn" data-listen="en-US">
-<h3>Learn</h3>
 <p><strong>Why start here.</strong> Most errors in applied problems happen before any algebra: the relationship between quantities is misread. The Singapore model method draws each quantity as a bar so that the relationship is visible. Three structures cover almost every problem: <strong>part-whole</strong> (parts make a whole), <strong>comparison</strong> (one quantity is a multiple of, or differs from, another) and <strong>change</strong> (a quantity is increased, decreased or transferred). Draw first; write the equation second; check the answer in the original words third.</p>
 <p><strong>Worked example 1 (part-whole with fractions of a remainder).</strong> A gallery sold 3/5 of its prints in the morning and 1/4 of the remaining prints in the afternoon. 48 prints were left. How many were there at the start?</p>
 <div class="barmodel">
-<div class="row"><span class="lbl">all prints</span><span class="seg" style="width:60%">sold a.m. (3 fifths)</span><span class="seg u" style="width:20%">2 fifths left</span></div>
-<div class="row"><span class="lbl">2 fifths left</span><span class="seg" style="width:5%">p.m.</span><span class="seg u" style="width:15%">48</span></div>
+<div class="row"><span class="lbl">the whole</span>
+<div class="stack">
+<div class="bar"><span class="seg"></span><span class="seg"></span><span class="seg"></span><span class="seg u"></span><span class="seg u"></span></div>
+<div class="caps"><span style="flex:3">sold a.m. (3/5)</span><span style="flex:2">remaining (2/5)</span></div>
+</div>
+</div>
+<div class="row"><span class="lbl">the remaining 2/5</span>
+<div class="stack" style="flex-direction:row;align-items:stretch">
+<div style="flex:3"></div>
+<div class="stack" style="flex:2">
+<div class="bar"><span class="seg"></span><span class="seg u"></span><span class="seg u"></span><span class="seg u"></span></div>
+<div class="caps"><span style="flex:1">sold p.m. (1/4)</span><span style="flex:3">3/4 = 48 left</span></div>
+</div>
+</div>
+</div>
 </div>
 <p>The remainder is 2/5 of the whole. A quarter of it was sold, so 3/4 of 2/5 = 3/10 of the whole is left. Then 3/10 of the total = 48, so the total is 160. <em>Algebra:</em> (3/10)x = 48, x = 160. <em>Check:</em> 160 → 96 sold, 64 left → 16 sold, 48 left. ✓</p>
 <p><strong>Worked example 2 (comparison with one quantity unchanged).</strong> Two artists had money in the ratio 5 : 3. After the first spent $84, the ratio was 2 : 3. How much did each have at first?</p>
@@ -156,26 +162,32 @@
 </div>
 <div class="watch" data-listen="en-US">
 <h3>Watch me</h3>
-<p>Two parts make 84, and one part is 30 more than the other. Draw two bars that together make 84. Cut 30 off the longer bar. The remaining 54 is two equal small parts, so each small part is 27, and the larger is 57. Equation: let the smaller be <em>x</em>. Then <em>x</em> + (<em>x</em> + 30) = 84, so 2<em>x</em> = 54, <em>x</em> = 27.</p>
+<p>A studio used 2/5 of a roll of paper in the morning and 1/3 of the remaining paper in the afternoon. 40 sheets were left. How many sheets were on the roll at the start?</p>
+<ol class="steps">
+<li>After the morning, 3/5 of the roll remains.</li>
+<li>The afternoon uses 1/3 of that remainder, so 2/3 of the remainder is left. 2/3 of 3/5 is 2/5 of the whole.</li>
+<li>2/5 of the whole = 40, so the whole is 40 × 5/2 = 100 sheets.</li>
+<li>Check in the original words: 100 → 40 used in the morning, 60 left → 20 used in the afternoon, 40 left. ✓</li>
+</ol>
 </div>
 <div class="together" data-listen="en-US">
 <h3>Together</h3>
-<p>A length is 50, and it is made of two parts, one twice the other. Draw the bars and write the equation.</p>
+<p>Two accounts were in the ratio 7 : 4. After $90 was taken from the first, the two amounts were equal. How much was in each account at first? (Which quantity is unchanged?)</p>
 <details>
-<summary>Hint 1: Bars</summary>
-<p>Three equal units make 50: two for the long part, one for the short.</p>
+<summary>Hint 1: Unchanged quantity</summary>
+<p>The second account does not change, so it stays 4 units in both ratios. After the withdrawal the ratio is 4 : 4.</p>
 </details>
 <details>
-<summary>Hint 2: Equation</summary>
-<p>Let the short part be <em>x</em>. Then <em>x</em> + 2<em>x</em> = 50, so <em>x</em> = 50/3.</p>
+<summary>Hint 2: Units</summary>
+<p>The first account goes from 7 units to 4 units, so 3 units = $90 and 1 unit = $30. At first: $210 and $120.</p>
 </details>
 </div>
 <div class="check">
 <h3>Check</h3>
-<p>These questions use the same skill as the example. Write the answers, then look at the key.</p>
+<p>These questions use the same skills as the worked examples, with one feature varied in each. Draw the bars, then write the answers and look at the key.</p>
 <ol>
-<li>In a part-whole bar, the parts are 12 and 19. What is the whole?</li>
-<li>Two numbers differ by 8 and add to 40. What is the smaller?</li>
+<li>A chemist used 3/8 of a bottle in the morning and 1/5 of the remaining solution in the afternoon. 28 mL were left. How much was in the bottle at the start?</li>
+<li>Pencils and pens were in the ratio 5 : 8. After 12 more pencils were bought, there were equally many pencils and pens. How many pencils were there at first?</li>
 </ol>
 </div>
 <h3>Exercises</h3>
@@ -190,10 +202,6 @@
 <li><em>(Stretch.)</em> A and B together finish a job in 6 days; B and C in 10 days; A and C in 7.5 days. How long would A alone take?</li>
 </ol><p class="keylink"><a href="../printables/d01-math.html">Review sheet for this lesson</a> (one page, only what this lesson taught)</p><p class="keylink"><a href="../keys/d01.html#math">Answer key →</a></p></section>
 <section class="lesson" id="writing"><div class="lesson-head"><h2>Writing &amp; Rhetoric · The sentence: kernels and expansion</h2><label class="done"><input type="checkbox" data-done="d01-writing"> Done</label></div><p class="meta">45 min · Method: Hochman, <em>The Writing Revolution</em> (sentence-level instruction first, practiced on real content)</p>
-<div class="learn" data-listen="en-US">
-<h3>Learn</h3>
-<p>A <strong>kernel</strong> is a bare sentence: subject + verb, and sometimes an object (<em>The painter looks</em>). You expand it by answering <em>who/what, when, where, why, how</em>. Each addition must be a real phrase in the sentence, not a loose note in the margin.</p>
-</div>
 <div class="learn" data-listen="en-US">
 <h3>Learn</h3>
 <p><strong>Principle.</strong> Good paragraphs are built from controlled sentences, and controlled sentences are built deliberately. The Writing Revolution begins at the sentence: you take a bare <strong>kernel</strong> (subject + verb, sometimes an object) and expand it by answering the questions <em>who/what, when, where, why, how</em>. Each addition must be accurate and must earn its place.</p>
@@ -247,9 +255,6 @@ Venetian painters favoured oil on canvas, <strong>so</strong> large paintings co
 <div class="learn" data-listen="en-US">
 <h3>Learn</h3>
 <p>Position is where something is, measured from a chosen origin along a line or axis (it can be positive or negative). <strong>Displacement</strong> is the change in position: final minus initial. It has a direction. <strong>Distance travelled</strong> is the length of the path, and is never negative. <strong>Velocity</strong> is displacement divided by the time taken (average velocity). <strong>Speed</strong> is distance divided by time, and has no direction.</p>
-</div>
-<div class="learn" data-listen="en-US">
-<h3>Learn</h3>
 <p><strong>How Peer Instruction works here.</strong> In Mazur's classes, students read <em>before</em> class, then answer short conceptual questions (ConcepTests) individually, discuss with a neighbour and answer again. Working alone, you will: (1) read the notes; (2) answer each ConcepTest on your own, writing your answer, a confidence rating (1 = guess, 3 = sure) and a one-sentence reason; (3) do the "peer" step: write the strongest argument you can for a <em>different</em> option, or explain your answer aloud to a tutor or family member and let them question it; (4) answer again; (5) only then check the key. Record whether you changed your answer. The point is to expose your reasoning, not to guess.</p>
 <p><strong>Pre-reading (10 min).</strong>
 - <strong>Position</strong> x is where an object is relative to a chosen origin, with a sign for direction.
@@ -321,9 +326,6 @@ Venetian painters favoured oil on canvas, <strong>so</strong> large paintings co
 <div class="learn" data-listen="en-US">
 <h3>Learn</h3>
 <p>Sight-size means the drawing is set so that, from a fixed viewing point, the drawing and the subject appear the same size. You can then compare lengths with a straight arm and a pencil, or with a plumb line. Line control starts with slow, light, straight or slightly curved strokes that you can adjust, not with a heavy outline you cannot erase cleanly.</p>
-</div>
-<div class="learn" data-listen="en-US">
-<h3>Learn</h3>
 <p><strong>The atelier sequence.</strong> Classical ateliers train the eye and hand in a fixed order: line and proportion (copying the Bargue plates), then value (light and shadow) on simple forms, then cast drawing from plaster, then painting in limited and full palettes, then the live model. Each stage removes one difficulty at a time. Speed comes later; accuracy comes first.</p>
 <p><strong>Materials.</strong> Graphite pencils 2H, HB, 2B; a kneaded eraser; smooth heavy drawing paper (Bristol or similar); a sandpaper block or blade for a long, sharp point; a plumb line (thread with a small weight); a thin straight stick or knitting needle for measuring; a hand mirror; masking tape; a board and an easel or a chair-back that holds the board upright.</p>
 <p><strong>Sight-size.</strong> Set the drawing beside the subject so that, from one fixed viewing spot a few paces back, the drawing and the subject <em>appear the same size</em>. Mark the spot on the floor. Make every judgement from that spot, then walk forward to draw. Because the two are seen side by side at the same size, errors of proportion and angle show up directly. (For copying a printed plate, place the plate beside your paper at the same height and size.)</p>
@@ -436,9 +438,6 @@ Venetian painters favoured oil on canvas, <strong>so</strong> large paintings co
 </tr>
 </tbody>
 </table>
-</div>
-<div class="learn" data-listen="en-US">
-<h3>Learn</h3>
 <p><strong>Vowels.</strong> Spanish has five vowel sounds, and each is pure and short: <em>a</em> (casa), <em>e</em> (mesa), <em>i</em> (sí), <em>o</em> (todo), <em>u</em> (luna). They never glide as English vowels do.</p>
 <p><strong>Consonants to watch.</strong> <em>h</em> is silent (hora); <em>j</em>, and <em>g</em> before e/i, is a breathy sound from the back of the throat (jardín, gente); <em>ñ</em> is the "ny" sound of English <em>canyon</em> (año); <em>ll</em> and <em>y</em> sound like English "y" for most speakers; <em>z</em>, and <em>c</em> before e/i, sound like "s" in Latin America and like "th" in most of Spain; <em>r</em> between vowels is a single tap, while <em>rr</em> and initial <em>r</em> are trilled.</p>
 <p><strong>Stress rules.</strong> (1) Words ending in a vowel, <em>n</em> or <em>s</em> stress the second-to-last syllable: <em>VEN-ta-na</em>. (2) Other words stress the last syllable: <em>re-LOJ</em>. (3) A written accent overrides both rules: <em>ÁR-bol</em>, <em>can-CIÓN</em>.</p>
