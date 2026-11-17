@@ -2,21 +2,168 @@
   "title": "Atelier Academy",
   "storage_key": "atelier-academy",
   "footer": "A private course of study. Progress is saved only in this browser (localStorage); nothing is sent anywhere.",
-  "nav": [["Today","today.html"],["Timetable","timetable.html"],["Placement","placement.html"],["Scope & sequence","scope.html"],["Lessons","lessons.html"],["Electives","electives.html"],["Progress","progress.html"],["Methods","methods.html"]],
-  "days": ["d01","d02","d03","d04","d05","d06","d07","d08","d09","d10"],
-  "timetable": {
-    "days": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-    "rows": [
-      {"time":"08:30–09:00","cells":["Latin","Latin","Latin","Latin","Latin"]},
-      {"time":"09:00–10:00","cells":["Mathematics","Mathematics","Mathematics","Mathematics","Mathematics"]},
-      {"time":"10:00–10:10","break":true,"cells":["Break","Break","Break","Break","Break"]},
-      {"time":"10:10–10:55","cells":["Writing & Rhetoric","Writing & Rhetoric","Writing & Rhetoric","Writing & Rhetoric","Writing & Rhetoric"]},
-      {"time":"10:55–11:40","cells":["Physics (Peer Instruction)","Science (phenomenon)","Physics (Peer Instruction)","Science (phenomenon)","Physics (Peer Instruction)"]},
-      {"time":"11:40–12:25","cells":["History","Literature","History","Literature","History"]},
-      {"time":"12:25–13:15","break":true,"cells":["Lunch · free reading","Lunch · free reading","Lunch · free reading","Lunch · free reading","Lunch · free reading"]},
-      {"time":"13:15–14:45","cells":["Atelier","Atelier","Atelier","Atelier","Atelier"]},
-      {"time":"14:45–15:10","cells":["Modern language","Modern language","Modern language","Modern language","Modern language"]},
-      {"time":"15:10–15:40","cells":["Logic","Music theory","Art history","Economics & finance","Elective"]}
+  "nav": [
+    [
+      "Today",
+      "today.html"
+    ],
+    [
+      "Timetable",
+      "timetable.html"
+    ],
+    [
+      "Placement",
+      "placement.html"
+    ],
+    [
+      "Scope & sequence",
+      "scope.html"
+    ],
+    [
+      "Lessons",
+      "lessons.html"
+    ],
+    [
+      "Electives",
+      "electives.html"
+    ],
+    [
+      "Review sheets",
+      "printables/index.html"
+    ],
+    [
+      "Progress",
+      "progress.html"
+    ],
+    [
+      "Methods",
+      "methods.html"
     ]
-  }
+  ],
+  "days": [
+    "d01",
+    "d02",
+    "d03",
+    "d04",
+    "d05",
+    "d06",
+    "d07",
+    "d08",
+    "d09",
+    "d10"
+  ],
+  "timetable": {
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "rows": [
+      {
+        "time": "08:30–09:00",
+        "cells": [
+          "Latin",
+          "Latin",
+          "Latin",
+          "Latin",
+          "Latin"
+        ]
+      },
+      {
+        "time": "09:00–10:00",
+        "cells": [
+          "Mathematics",
+          "Mathematics",
+          "Mathematics",
+          "Mathematics",
+          "Mathematics"
+        ]
+      },
+      {
+        "time": "10:00–10:10",
+        "break": true,
+        "cells": [
+          "Break",
+          "Break",
+          "Break",
+          "Break",
+          "Break"
+        ]
+      },
+      {
+        "time": "10:10–10:55",
+        "cells": [
+          "Writing & Rhetoric",
+          "Writing & Rhetoric",
+          "Writing & Rhetoric",
+          "Writing & Rhetoric",
+          "Writing & Rhetoric"
+        ]
+      },
+      {
+        "time": "10:55–11:40",
+        "cells": [
+          "Physics (Peer Instruction)",
+          "Science (phenomenon)",
+          "Physics (Peer Instruction)",
+          "Science (phenomenon)",
+          "Physics (Peer Instruction)"
+        ]
+      },
+      {
+        "time": "11:40–12:25",
+        "cells": [
+          "History",
+          "Literature",
+          "History",
+          "Literature",
+          "History"
+        ]
+      },
+      {
+        "time": "12:25–13:15",
+        "break": true,
+        "cells": [
+          "Lunch · free reading",
+          "Lunch · free reading",
+          "Lunch · free reading",
+          "Lunch · free reading",
+          "Lunch · free reading"
+        ]
+      },
+      {
+        "time": "13:15–14:45",
+        "cells": [
+          "Atelier",
+          "Atelier",
+          "Atelier",
+          "Atelier",
+          "Atelier"
+        ]
+      },
+      {
+        "time": "14:45–15:10",
+        "cells": [
+          "Modern language",
+          "Modern language",
+          "Modern language",
+          "Modern language",
+          "Modern language"
+        ]
+      },
+      {
+        "time": "15:10–15:40",
+        "cells": [
+          "Logic",
+          "Music theory",
+          "Art history",
+          "Economics & finance",
+          "Elective"
+        ]
+      }
+    ]
+  },
+  "has_printables": true
 }

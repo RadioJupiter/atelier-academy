@@ -11,6 +11,7 @@ Usage: python3 build.py   (needs the 'markdown' package: pip install -r requirem
 """
 import json, re, shutil, html
 from pathlib import Path
+import printables
 import markdown
 
 ROOT = Path(__file__).resolve().parent
@@ -35,7 +36,7 @@ def page(title, body, depth=0, extra_head=""):
 <nav>{nav}</nav></header>
 <main>{body}</main>
 <footer><p>{site['footer']}</p></footer>
-<script src="{pre}assets/days.js"></script><script src="{pre}assets/app.js"></script>
+<script src="{pre}assets/days.js"></script><script src="{pre}assets/app.js"></script><script src="{pre}assets/listen.js"></script>
 </body></html>"""
 
 def split_title(text):
@@ -70,7 +71,11 @@ def build():
         title, meta, intro, secs = parse_day(p)
         days.append({"id": f, "title": title, "meta": meta,
                      "sections": [{"id": f"{f}-{s['id']}", "name": s["name"]} for s in secs]})
-        body = [f'<p class="crumbs"><a href="../index.html">Home</a> · <a href="../today.html">Today</a> · <a href="../keys/{f}.html">Answer keys for this day</a></p>',
+        crumbs = f'<p class="crumbs"><a href="../index.html">Home</a> · <a href="../today.html">Today</a> · <a href="../keys/{f}.html">Answer keys for this day</a>'
+        if site.get("has_printables"):
+            crumbs += ' · <a href="../printables/index.html">Review sheets</a>'
+        crumbs += "</p>"
+        body = [crumbs,
                 f"<h1>{html.escape(title)}</h1>", md(intro)]
         body.append('<nav class="toc">' + "".join(f'<a href="#{s["id"]}">{html.escape(s["name"])}</a>' for s in secs) + "</nav>")
         kbody = [f'<p class="crumbs"><a href="../days/{f}.html">Back to the lessons</a></p>',
@@ -78,9 +83,12 @@ def build():
                  '<p class="note">Attempt every exercise in writing before opening this page. Mark your work, then rework every miss from scratch the next day.</p>']
         for s in secs:
             uid = f"{f}-{s['id']}"
+            review = (f'<p class="keylink"><a href="../printables/{f}-{s["id"]}.html">Review sheet for this lesson</a> (one page, only what this lesson taught)</p>'
+                      if site.get("has_printables") else "")
             body.append(f'<section class="lesson" id="{s["id"]}"><div class="lesson-head"><h2>{html.escape(s["name"])}</h2>'
                         f'<label class="done"><input type="checkbox" data-done="{uid}"> Done</label></div>'
                         f'{md(s["lesson"])}'
+                        + review
                         + (f'<p class="keylink"><a href="../keys/{f}.html#{s["id"]}">Answer key →</a></p>' if s["key"] else "")
                         + "</section>")
             if s["key"]:
@@ -92,11 +100,13 @@ def build():
     for p in sorted((SRC / "pages").glob("*.md")):
         title, rest = split_title(p.read_text())
         (OUT / f"{p.stem}.html").write_text(page(title, f"<h1>{html.escape(title)}</h1>\n" + md(rest)))
-    for extra, name in (("SOURCES.md", "sources"),):
+    for extra, name in (("SOURCES.md", "sources"), ("TEACHING_AUDIT.md", "teaching-audit")):
         f = ROOT / extra
         if f.exists():
             title, rest = split_title(f.read_text())
             (OUT / f"{name}.html").write_text(page(title, f"<h1>{html.escape(title)}</h1>\n" + md(rest)))
+    if site.get("has_printables"):
+        printables.build_printables(site, SRC, OUT, page)
     print(f"built {len(days)} days and {len(list((SRC/'pages').glob('*.md')))} pages into {OUT}")
 
 if __name__ == "__main__":

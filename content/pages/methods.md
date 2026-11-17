@@ -55,3 +55,13 @@ History is taught **chronologically**, from **primary sources** with explicit so
 Logic, music theory, art history and economics and personal finance each get 30 minutes once a week, so they are steady rather than intensive. Art history runs in step with History, and its looking exercises feed the Atelier.
 
 Full references: [Sources](sources.html).
+
+## How a lesson is taught
+
+Every mathematics, Latin, Spanish, physics, writing and atelier lesson follows a short explicit-instruction sequence, after Barak Rosenshine's *Principles of Instruction* (2012): **Learn**, **Remember**, **Watch me**, **Together** (hints), **Check** (only the skill just taught), then independent practice. Latin vocabulary and grammar are taught here with original examples; Ørberg's book is extra reading, not the only teacher. Physics keeps Peer Instruction, but a short explanation and a worked example come *before* the ConcepTests. Atelier lessons include a numbered demonstration.
+
+A Listen button reads the explanation in English. In Spanish and Latin lessons, only the words being taught have a short Hear-word clip in that language. Nothing is sent to a network.
+
+Mathematics in these weeks already uses Singapore bar models, Kiselev's proofs and Gelfand-style algebra. It does not use American elementary "write the number in words" or "expanded form" drills. (Writing Spanish number *words* such as *siete* is language vocabulary, not a mathematics test item.)
+
+Each lesson has its own short review sheet (one page, at most two), linked from the lesson, for retention of what that lesson taught. There are no combined unit packets.

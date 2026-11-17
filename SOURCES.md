@@ -54,3 +54,5 @@ Every method attribution and factual claim in the lessons is traceable to one of
 - Speed of light (exact, 299,792,458 m/s): BIPM, *The International System of Units* (SI Brochure, 9th ed.). Astronomical unit (149,597,870,700 m): IAU Resolution B2 (2012).
 - Apollo 15 hammer–feather drop (1971): NASA, [NSSDC page](https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_15_feather_drop.html).
 - Rayleigh scattering (intensity ∝ 1/λ⁴) and skylight polarisation: any university optics text, e.g. Hecht, *Optics*.
+
+- Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that all teachers should know. *American Educator*, 36(1), 12–19, 39. Also issued by the International Academy of Education (2010). https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf (explicit instruction: models, guided practice, checks for understanding, independent practice, small steps.)
