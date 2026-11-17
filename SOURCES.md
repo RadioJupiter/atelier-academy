@@ -153,5 +153,5 @@ Every method attribution and factual claim in the lessons is traceable to one of
 - John Dryden, trans., *Aeneid* Book II, first published 1697 (Wikisource). The three already-set extracts — the opening four lines, the five-line steed passage, and the four hollow-side lines — are gathered, not grown. Tenedos, the gates, Sinon, Priam, and later books remain reserved.
 - Samuel Ball Platner, as completed and revised by Thomas Ashby, *A Topographical Dictionary of Ancient Rome* (1929), entries “Arcus Titi” and “Amphitheatrum Flavium,” as already used (LacusCurtius). The hundred-day games remain cited as Platner, citing Suetonius, *Titus* 7, among others; this course does not pretend to have read Suetonius independently.
 - William Wordsworth, “I Wandered Lonely as a Cloud,” first published 1807; John Keats, “On First Looking into Chapman’s Homer,” 1817; Percy Bysshe Shelley, “Ozymandias,” 1818. All three remain the already-taught public-domain texts. No fourth poem is set in week 12.
-- New week 12 term cards are Term 1 closes or examination names. Origins already given on earlier cards are not invented again; new close-names are left without an invented root.
+- Week 12 adds no new glossary terms. Review lessons link back to the Frayer cards already taught in earlier weeks. Glossary entries remain genuine subject terms only.
 
