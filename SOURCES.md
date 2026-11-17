@@ -56,3 +56,19 @@ Every method attribution and factual claim in the lessons is traceable to one of
 - Rayleigh scattering (intensity ∝ 1/λ⁴) and skylight polarisation: any university optics text, e.g. Hecht, *Optics*.
 
 - Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that all teachers should know. *American Educator*, 36(1), 12–19, 39. Also issued by the International Academy of Education (2010). https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf (explicit instruction: models, guided practice, checks for understanding, independent practice, small steps.)
+
+## Weeks 3–4 (additional sources)
+
+- Kiselev, A. P. *Planimetry* (constructions, parallelograms, circles: chords and tangents). The course’s construction sequence follows this tradition; the trapezoid is defined here as a quadrilateral with exactly one pair of parallel sides.
+- Lincoln, A. Gettysburg Address, 19 November 1863 (public domain). Used as an imitatio model in writing, week 3.
+- Johnson, S. *The History of Rasselas, Prince of Abissinia* (1759), chapter 1 (public domain). Used with Franklin’s hints in writing, week 3.
+- Treaty of year 21 of Ramesses II with Ḫattušili III: Akkadian tablet tradition from Hattusa (e.g. KBo 1.7 / CTH 91) and the hieroglyphic text at Karnak (year 21). The date is cited as year 21 of Ramesses II and as conventionally mid-13th century BCE, not as an exact year such as 1269 BCE. The object displayed at the United Nations is a replica.
+- Pyramid Texts of Unas, Saqqara: a class of Old Kingdom funerary text, named as a source for kingship and afterlife language; particular spells are not quoted as if from a classroom edition that has not been opened in the lesson.
+- Arrian, *Anabasis of Alexander*, trans. E. J. Chinnock (1884), public domain. Alexander’s dates in the course are 336–323 BCE (campaign from 334; Issus 333; Gaugamela 331; death at Babylon 323). Arrian is a late source and is treated as such.
+- Oil-paint drying: a drying oil film hardens by autoxidation and then polymerization (crosslinking), not mainly by evaporation of the oil. A drying oil film may gain mass as it takes up oxygen; a watercolor wash loses mass as water evaporates. Lead driers are not used in the studio exercises. (Standard conservation / drying-oil chemistry; no invented percentages.)
+- Homer, *Iliad*, Books 7–24, as in weeks 1–2: Butler (1898), Project Gutenberg [#2199](https://www.gutenberg.org/ebooks/2199), is a public-domain option; verse translations remain recommended for reading. Quotes in the lessons, when used, are short and attributed.
+- Shakespeare, Sonnets 18 and 73 (public domain), for caesura, enjambment, and the volta.
+- Evans’s name ‘Minoan’ and the restorations at Knossos (including work associated with the Gilliéron workshop) are treated as modern layers on Bronze Age remains, not as photographs of the second millennium BCE.
+- Kritios Boy: Acropolis, Athens, early fifth century BCE, used as the type example of Early Classical contrapposto in this course. The name records a traditional attribution.
+- Surface gravity and lunar periods, when used in cross-site work or in later checks: NASA Moon fact sheet (surface gravity 1.62 m/s² against Earth 9.80 m/s², ratio about 0.165, about 1/6; synodic month 29.53 days; sidereal month 27.3217 days); NASA Mars fact sheet (mean surface gravity 3.73 m/s² against Earth 9.82 m/s², ratio about 0.380).
+

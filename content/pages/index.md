@@ -30,4 +30,4 @@ Complete the **[placement diagnostics](placement.html)** over two days. They dec
 
 ## What is here now
 
-Weeks 1 and 2 are written in full for every subject: ten school days, 80 lessons, each with exercises and a key. The rest of the year is laid out in the [scope and sequence](scope.html), and new weeks will be added in the same format. Sources for every method and fact are listed on the [sources page](sources.html).
+Weeks 1–4 are written in full for every subject: twenty school days, 160 subject lessons plus a Friday vocabulary review in weeks 1, 2, 3, and 4, each lesson with exercises and a key. The rest of the year is laid out in the [scope and sequence](scope.html), and new weeks will be added in the same format. Sources for every method and fact are listed on the [sources page](sources.html).
