@@ -1,6 +1,6 @@
 # Scope and sequence
 
-A 36-week year in three terms of 12 weeks, five school days a week. Weeks 1–4 are written in full (see [Lessons](lessons.html)); the rest is planned here and will be written in the same format. Each Friday ends with a cumulative check, and weeks 12, 24 and 36 are consolidation weeks with term examinations.
+A 36-week year in three terms of 12 weeks, five school days a week. Weeks 1–5 are written in full (see [Lessons](lessons.html)); the rest is planned here and will be written in the same format. The Term 2 science module *Living color* is begun in week 5 rather than inventing a filler topic. Each Friday ends with a cumulative check, and weeks 12, 24 and 36 are consolidation weeks with term examinations.
 
 ## Mathematics
 

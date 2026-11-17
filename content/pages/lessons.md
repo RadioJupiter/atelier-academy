@@ -24,6 +24,11 @@ Each day page holds every lesson for that day; each key page holds the answers. 
 | Week 4 · Wednesday | [Day 18](days/d18.html) | [Keys](keys/d18.html) |
 | Week 4 · Thursday | [Day 19](days/d19.html) | [Keys](keys/d19.html) |
 | Week 4 · Friday | [Day 20](days/d20.html) | [Keys](keys/d20.html) |
+| Week 5 · Monday | [Day 21](days/d21.html) | [Keys](keys/d21.html) |
+| Week 5 · Tuesday | [Day 22](days/d22.html) | [Keys](keys/d22.html) |
+| Week 5 · Wednesday | [Day 23](days/d23.html) | [Keys](keys/d23.html) |
+| Week 5 · Thursday | [Day 24](days/d24.html) | [Keys](keys/d24.html) |
+| Week 5 · Friday | [Day 25](days/d25.html) | [Keys](keys/d25.html) |
 
 ## Lessons by subject (weeks 1–4)
 
@@ -37,4 +42,6 @@ Each day page holds every lesson for that day; each key page holds the answers. 
 - **Literature:** *Iliad* Books 1–6 in weeks 1–2; Books 7–24 in weeks 3–4 (the embassy; Patroclus; the shield and the death of Hector; the funeral, Priam’s supplication, and a short written response). The poem ends with Hector’s funeral; the fall of Troy is not narrated here. Quotes, when used, are short and attributed, from a public-domain translation.
 - **Modern language (Spanish):** weeks 1–2 as before. Weeks 3–4: stem-changing verbs (e → ie, o → ue); *ser* and *estar* contrasted; direct-object pronouns; reflexives; the personal *a*; irregular *yo* forms and *saber*/*conocer*; comparatives; a two-week review and composition. Instruction stays in English; Hear is used for Spanish words.
 - **Seminar:** weeks 1–2 as before. Weeks 3–4: De Morgan’s laws; necessary and sufficient conditions; intervals; the triad; Aegean Bronze Age art (with a caution about restoration and about the name ‘Minoan’); the kouros and contrapposto; markets and prices; supply and demand (classroom numbers clearly labeled as invented); artistic anatomy 2 (origin, insertion, tendon; deltoid, biceps, gastrocnemius); poetry 2 (caesura, enjambment, volta), with Shakespeare, Sonnets 18 and 73.
-- **Vocabulary:** a glossary of the terms taught in weeks 1–4, and a Friday spaced review in weeks 1, 2, 3, and 4 (each later Friday mixes in earlier weeks).
+
+- **Week 5 (added in full).** Mathematics: inscribed and central angles (Euclid III.20), angles in the same segment and the angle in a semicircle (III.21, III.31, traditionally Thales), cyclic quadrilaterals (III.22), intersecting chords (III.35), and sums of arithmetic progressions. Writing: parallelism and imitatio / Franklin hints / a précis of the opening of the Declaration of Independence (1776, public domain); participial phrases. Latin: *Familia Romana* Capitulum VII (dative; reflexive *sē*; *in* + accusative or ablative; *hic*), with original practice sentences. Physics: a first look at work and energy, beyond the Term 1 list (work and the joule; kinetic energy and the work–energy theorem). Science: the start of *Living color* (why many leaves look green; photosynthesis as a labeled net equation). History: sources for early Rome (Livy late; 753 BCE traditional); the Republic (consuls, Senate; Polybius as a second-century analysis); the Twelve Tables as later fragments. Literature: *Odyssey* Books 1–8 (Telemachy; Calypso, the raft, and the Phaeacians), with short public-domain quotation from Butler (1898) when used. Atelier: a head block-in and working proportions (the plate wins); planes and a value pass; a plaster start. Spanish (present only): e → i stems; the present progressive; indirect-object pronouns; *gustar*; a week-5 review. Seminar: converse, inverse, and contrapositive; natural minor and relative minor; High Classical Greece (Parthenon, Doryphoros type, copies and conventional dates); specialization and trade (invented table); artistic anatomy 3 (rib cage and pelvis).
+- **Vocabulary:** a glossary of the terms taught in weeks 1–5, and a Friday spaced review in weeks 1–5 (each later Friday mixes in earlier weeks).
