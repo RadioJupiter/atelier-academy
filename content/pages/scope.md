@@ -6,7 +6,7 @@ A 36-week year in three terms of 12 weeks, five school days a week. Weeks 1–2 
 
 | Term | Geometry strand (Kiselev) | Algebra / analysis strand (Gelfand, Russian problem tradition) |
 |---|---|---|
-| 1 (wk 1–12) | Axioms, angles, congruence, parallels, triangle inequalities, loci, constructions with compass and straightedge, quadrilaterals, the circle (chords, tangents, inscribed angles) | Bar-model modelling, identities and factoring, quadratics and Vieta, inequalities and AM–GM, functions and graphs, systems, exponents and radicals, arithmetic and geometric progressions |
+| 1 (wk 1–12) | Axioms, angles, congruence, parallels, triangle inequalities, loci, constructions with compass and straightedge, quadrilaterals, the circle (chords, tangents, inscribed angles) | Bar-model modeling, identities and factoring, quadratics and Vieta, inequalities and AM–GM, functions and graphs, systems, exponents and radicals, arithmetic and geometric progressions |
 | 2 (wk 13–24) | Similarity, the Pythagorean theorem (several proofs), area, regular polygons and the circumference and area of a circle, geometric constructions and impossibility (discussion) | Trigonometry (Gelfand & Saul): unit circle, identities, laws of sines and cosines; exponential and logarithmic functions; mathematical induction; complex numbers (introduction) |
 | 3 (wk 25–36) | Solid geometry selections (Kiselev, *Stereometry*): lines and planes in space, prisms, pyramids, solids of revolution | Calculus in the Russian tradition: limits, continuity, the derivative and its rules, applications (tangents, optimisation, motion), the integral and the fundamental theorem; daily short problem sets in the style of Demidovich |
 
@@ -28,7 +28,7 @@ A 36-week year in three terms of 12 weeks, five school days a week. Weeks 1–2 
 |---|---|
 | 1 | Line and proportion drills; Bargue plates, Part I (features, then heads); value scales; light on simple forms; cast drawing of simple casts (features, ornament) |
 | 2 | Cast drawing of a full head; Bargue plates, Part II (copies after master drawings); grisaille painting (monochrome value painting); introduction to oil or acrylic handling |
-| 3 | Colour: a limited palette (yellow ochre, red, black, white), colour-value studies, still life in full colour, master copy in colour; first portrait and figure studies from life |
+| 3 | Color: a limited palette (yellow ochre, red, black, white), color-value studies, still life in full color, master copy in color; first portrait and figure studies from life |
 
 ## Physics (Peer Instruction)
 
@@ -37,8 +37,8 @@ Term 1: kinematics, Newton's laws, friction, motion in two dimensions, circular 
 ## Science (phenomenon modules)
 
 Each module starts from a real phenomenon and draws on chemistry, biology, physics and Earth science, with olympiad-style problem sets.
-- Term 1: *Fire and air* (combustion, gases) · *The colour of the sky* (light, scattering, polarisation) · *Why oil paint dries* (oxidation and polymerisation of drying oils; the chemistry of pigments)
-- Term 2: *Living colour* (photosynthesis, plant pigments, chromatography) · *How we see* (eye, retina, colour vision, illusions) · *Water* (states, surface tension, solutions)
+- Term 1: *Fire and air* (combustion, gases) · *The color of the sky* (light, scattering, polarisation) · *Why oil paint dries* (oxidation and polymerisation of drying oils; the chemistry of pigments)
+- Term 2: *Living color* (photosynthesis, plant pigments, chromatography) · *How we see* (eye, retina, color vision, illusions) · *Water* (states, surface tension, solutions)
 - Term 3: *From rock to pigment* (minerals, ochres, lapis lazuli to ultramarine) · *Electricity at home* · *Weather and climate*
 
 ## History (chronological, primary sources)

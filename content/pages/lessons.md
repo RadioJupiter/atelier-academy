@@ -22,7 +22,7 @@ Each day page holds every lesson for that day; each key page holds the answers. 
 - **Latin:** *Familia Romana*, Capitula I–IV (nominative, genitive, accusative, vocative, imperative).
 - **Atelier:** sight-size and line → Bargue block-in → contour and shadow shapes → nine-step value scale → completing the plate → light on the egg → cast set-up and block-in → two values → halftones → finish and critique.
 - **Physics:** motion → acceleration → free fall → Newton's first, second and third laws.
-- **Science:** the candle under the jar (two lessons) → the colour of the sky → polarisation and light.
+- **Science:** the candle under the jar (two lessons) → the color of the sky → polarisation and light.
 - **History:** historians' method → Hammurabi → Herodotus → Pericles → Socrates → synthesis essay.
 - **Literature:** *Iliad* Books 1–6 and an analytical essay.
 - **Modern language (Spanish):** sounds → nouns and articles → *ser* → numbers and *estar* → *-ar* verbs → questions → *tener* → *-er/-ir* verbs → *ir* and the near future → review.

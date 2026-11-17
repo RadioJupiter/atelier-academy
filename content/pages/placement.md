@@ -37,7 +37,7 @@ Take these over **two days before Day 1**, in the order given, under test condit
 19. Find the slope of the tangent to y = x² at x = 3.
 20. Evaluate the integral of x² from 0 to 1.
 
-**Section F: modelling (bar model or algebra, your choice)**
+**Section F: modeling (bar model or algebra, your choice)**
 21. A gallery sold 40% of its prints on Saturday and 1/3 of the rest on Sunday. 120 prints remained. How many were there at first?
 22. The ratio of red to blue tiles is 3 : 5. After 24 red tiles are added, the ratio is 1 : 1. How many blue tiles are there?
 
@@ -63,7 +63,7 @@ Conceptual (choose one answer and give a one-line reason):
 2. A book rests on a table. The table's upward force on the book is the "reaction" to: (A) the book's weight (B) the book's downward push on the table (C) gravity pulling the table.
 3. A coin is tossed straight up. While it is rising, the net force on it is: (A) up (B) down (C) zero.
 4. Two identical balls: one falls from height h, the other from 2h. The second reaches the ground with: (A) twice the speed (B) √2 times the speed (C) four times the speed.
-5. A car goes around a curve at constant speed. Its acceleration is: (A) zero (B) toward the centre of the curve (C) outward.
+5. A car goes around a curve at constant speed. Its acceleration is: (A) zero (B) toward the center of the curve (C) outward.
 
 Quantitative:
 6. A cyclist accelerates from 2 m/s to 8 m/s in 3 s. Find the acceleration and the distance covered.

@@ -6,7 +6,7 @@
 
 | Subject | Minutes per week | Notes |
 |---|---|---|
-| Atelier (drawing and painting) | 450 | The largest block, every day: the arts are the centre of this school. |
+| Atelier (drawing and painting) | 450 | The largest block, every day: the arts are the center of this school. |
 | Mathematics | 300 | Daily. |
 | Writing & Rhetoric | 225 | Daily. |
 | Latin | 150 | Daily, short and frequent, which suits language learning. |

@@ -18,12 +18,12 @@ Mark each section, then follow the routing rule beneath it. Where a rule says a 
 - Sections A–C at 80% or better, D below 50%: **standard entry**. Begin Day 1 as written.
 - Section D at 75% or better: in weeks 1–4, do every lesson's stretch problems and the problem sets, but skip routine exercises that are already secure; start trigonometry (Term 2) up to six weeks early.
 - Section E at 75% or better: calculus has already been met. Keep the geometry proof strand (proof is rarely secure even when calculus is), and begin the calculus sequence of Term 3 in week 5.
-- Section F: if either is wrong, give Day 1 particular care; modelling errors cause most mistakes later.
+- Section F: if either is wrong, give Day 1 particular care; modeling errors cause most mistakes later.
 
 ## Writing
 
 1. Model: *The painting, damaged in a flood in 1966, was restored over many years.*
-2. (a) Fragment: *The colours shifted because the light changed.* (b) Run-on (comma splice risk): *The cast was white; the shadows were blue.* (c) Dangling modifier: *As I was running to the studio, the easel fell over.*
+2. (a) Fragment: *The colors shifted because the light changed.* (b) Run-on (comma splice risk): *The cast was white; the shadows were blue.* (c) Dangling modifier: *As I was running to the studio, the easel fell over.*
 3. **Rubric (1–4 each):** clear, arguable thesis · specific examples · other side addressed · paragraph structure · sentence control · mechanics.
 
 **Routing.** Total 18–24: standard entry, but move faster through the sentence work (Days 1–3) and spend the saved time on the Franklin exercises. Total below 15 or errors in exercise 2: do every sentence activity in full and add one extra *because/but/so* set daily for two weeks.

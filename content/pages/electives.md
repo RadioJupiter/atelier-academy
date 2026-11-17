@@ -1,11 +1,11 @@
 # Electives
 
-The Friday seminar block (30 minutes) rotates through electives. Choose two per term. The first two Friday sessions are written: **Artistic anatomy 1** (Day 5) and **Poetry: metre** (Day 10).
+The Friday seminar block (30 minutes) rotates through electives. Choose two per term. The first two Friday sessions are written: **Artistic anatomy 1** (Day 5) and **Poetry: meter** (Day 10).
 
 | Elective | What it covers | Key text or approach |
 |---|---|---|
 | Artistic anatomy | Bones and muscles that shape the surface; proportions of the head and figure | Anatomy books written for artists (see Sources) |
-| Poetry and verse craft | Metre, rhyme, forms (sonnet, ode, blank verse); writing and memorising poems | Close reading of public-domain poets |
+| Poetry and verse craft | Meter, rhyme, forms (sonnet, ode, blank verse); writing and memorising poems | Close reading of public-domain poets |
 | Philosophy | Plato's dialogues, Aristotle's ethics, Descartes, Hume | Primary texts in translation |
 | Astronomy and observing | The sky through the year, the Moon, planets, observing logs and sketching at the telescope | Practical observing |
 | Computer programming | Algorithms and programming in Python; generative drawing | Project-based |

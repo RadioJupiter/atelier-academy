@@ -19,9 +19,9 @@ A private, structured course of study for an advanced, arts-focused student: a f
 
 | Subject | Method | Why |
 |---|---|---|
-| Mathematics | Singapore bar models for modelling; Kiselev's geometry with proof; Gelfand-style algebra; Russian problem-book practice | Bar models expose the structure of a problem before algebra; Kiselev builds geometry as proof; Gelfand teaches algebra as understanding; graded problem sets build fluency |
+| Mathematics | Singapore bar models for modeling; Kiselev's geometry with proof; Gelfand-style algebra; Russian problem-book practice | Bar models expose the structure of a problem before algebra; Kiselev builds geometry as proof; Gelfand teaches algebra as understanding; graded problem sets build fluency |
 | Writing | The Writing Revolution (sentence-level first); Renaissance *imitatio* and Erasmus's *copia*; Franklin's reconstruction method; the Trivium | Explicit sentence instruction, then imitation of masters, then argument and rhetoric, in that order |
-| Atelier | Bargue–Gérôme plates, sight-size, value, cast drawing, then paint and colour | The classical academic sequence: one difficulty at a time, accuracy before speed; the largest daily block |
+| Atelier | Bargue–Gérôme plates, sight-size, value, cast drawing, then paint and color | The classical academic sequence: one difficulty at a time, accuracy before speed; the largest daily block |
 | Physics | Mazur's Peer Instruction with ConcepTests (adapted for one student) | Strong published evidence of conceptual gains |
 | Science | Finnish phenomenon-based modules plus Russian olympiad-style problems | Real phenomena that cross subjects, with quantitative rigour |
 | Latin | Ørberg's *Lingua Latina per se Illustrata* (natural method), daily | Reading Latin as Latin from the first page |

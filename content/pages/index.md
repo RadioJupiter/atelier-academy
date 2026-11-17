@@ -21,7 +21,7 @@ The language of instruction is English. Latin and Spanish are daily subjects.
 1. **Retrieval first.** Each day opens with five minutes of writing from memory what was learned before. Recalling is what makes knowledge stick.
 2. **Follow the timetable in order.** Each block lists its time, its method and its source text.
 3. **Work in writing.** Every exercise is answered by hand in the subject notebook before the answer key is opened. Keys are on separate pages for this reason.
-4. **Correct everything.** Mark your work against the key in a second colour. Rework every miss from scratch the next day.
+4. **Correct everything.** Mark your work against the key in a second color. Rework every miss from scratch the next day.
 5. **Tick Done** only when the corrections are finished. Fridays end with cumulative checks; anything under 80% is re-taught before new material.
 
 ## Before Day 1
