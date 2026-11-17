@@ -75,6 +75,10 @@ def practice_items(lesson: str) -> list[str]:
 def review_items(lesson: str, limit: int = 6) -> list[str]:
     checks = check_items(lesson)
     practice = practice_items(lesson)
+    # A one-page sheet cannot also hold a long composition or a lab write-up.
+    practice = [p for p in practice if len(p) < 400]
+    if any(len(c) > 180 for c in checks):
+        limit = min(limit, 4)
     items = list(checks)
     for p in practice:
         if len(items) >= limit:
@@ -108,7 +112,9 @@ def fmt_item(text: str) -> str:
 def item_box(n: int, text: str, tall: bool = False) -> str:
     low = text.lower()
     asks_draw = any(w in low for w in ("draw ", "draw a", "draw the", "bar model", "on a chart", "on a place-value", "graph"))
-    if tall or asks_draw or len(text) > 220:
+    if "key terms" in low:
+        kind = "work mid"
+    elif tall or asks_draw or len(text) > 220:
         kind = "work tall"
     else:
         kind = "work short"

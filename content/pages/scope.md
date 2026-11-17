@@ -37,7 +37,7 @@ Term 1: kinematics, Newton's laws, friction, motion in two dimensions, circular 
 ## Science (phenomenon modules)
 
 Each module starts from a real phenomenon and draws on chemistry, biology, physics and Earth science, with olympiad-style problem sets.
-- Term 1: *Fire and air* (combustion, gases) · *The color of the sky* (light, scattering, polarisation) · *Why oil paint dries* (oxidation and polymerisation of drying oils; the chemistry of pigments)
+- Term 1: *Fire and air* (combustion, gases) · *The color of the sky* (light, scattering, polarization) · *Why oil paint dries* (oxidation and polymerization of drying oils; the chemistry of pigments)
 - Term 2: *Living color* (photosynthesis, plant pigments, chromatography) · *How we see* (eye, retina, color vision, illusions) · *Water* (states, surface tension, solutions)
 - Term 3: *From rock to pigment* (minerals, ochres, lapis lazuli to ultramarine) · *Electricity at home* · *Weather and climate*
 

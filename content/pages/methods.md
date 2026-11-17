@@ -11,6 +11,8 @@ The language of instruction is English throughout. Spanish and Latin are taught 
 - **Answer keys on separate pages**, so that every exercise is attempted before the solution is seen.
 - **Mastery checks.** Fridays end with cumulative checks; under 80% means re-teaching before moving on.
 
+- **Vocabulary with the Frayer model, plus real etymology.** Every lesson has a Key terms card near the start of Learn: a precise definition in plain words, the word's origin when that origin can be checked in a historical dictionary (never invented), an example, a near-miss or common misconception, and a link to an earlier term or lesson. Math and physics terms include a symbol and a diagram where it helps. Each English term has a Listen pronunciation. Together and Check then require the student to explain or apply the terms in their own words, or to distinguish them from a near-miss. A glossary lists every term by subject, with a link back to the lesson; Friday of each week has a short spaced vocabulary review.
+
 ## Mathematics
 
 - **Singapore model method (bar models)** for problem modeling. Developed in 1983 by the team led by Dr Kho Tek Hong at Singapore's Curriculum Development Institute, it represents the relationships in a word problem as bars (part-whole, comparison and change models) before any equation is written (Kaur, 2019).
@@ -21,7 +23,7 @@ The language of instruction is English throughout. Spanish and Latin are taught 
 ## Writing & Rhetoric
 
 - **The Writing Revolution** (Hochman & Wexler, 2017): explicit instruction at the sentence level first (kernels and expansion, *because/but/so*, appositives, subordinating conjunctions, sentence combining), then single-paragraph outlines, always practiced on the content of other subjects.
-- **Renaissance *imitatio***: copying model passages exactly, analysing them, and varying them, as in Erasmus's *De Copia* (1512), which gives 150 variations of a single sentence.
+- **Renaissance *imitatio***: copying model passages exactly, analyzing them, and varying them, as in Erasmus's *De Copia* (1512), which gives 150 variations of a single sentence.
 - **Franklin's method**, from his *Autobiography*: reduce a model essay to hints, rebuild it days later, and compare with the original; and turn prose into verse and back.
 - **The Trivium** as the overall order: grammar (how sentences work), logic (how arguments work, with Toulmin's model), rhetoric (Aristotle's three appeals; the classical *progymnasmata*).
 

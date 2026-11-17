@@ -76,7 +76,7 @@ Set out drawing materials as described on Day 1.
 1. *(45 min)* Copy any reproduction of a Bargue plate, or of a master drawing of a head, in sight-size if possible. Block-in and contour only.
 2. *(20 min)* A nine-step value scale from white to the darkest dark you can make.
 3. *(40 min)* A still life of an egg and a box under one lamp, in pencil, with full value.
-4. *(15 min)* Write a paragraph: which artists do you most admire, what do you most want to be able to do in two years, and what media have you used (oil, acrylic, watercolour, charcoal, digital)?
+4. *(15 min)* Write a paragraph: which artists do you most admire, what do you most want to be able to do in two years, and what media have you used (oil, acrylic, watercolor, charcoal, digital)?
 
 ## Science (30 min)
 

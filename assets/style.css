@@ -117,3 +117,24 @@ button.listen-inline { margin-right: .4rem; padding: .1rem .45rem; font-size: .7
 .barmodel .caps{display:flex;font-size:.78rem;color:var(--ink);margin-top:.2rem;font-weight:600}
 .barmodel .caps span{text-align:center;line-height:1.2;padding:0 .15rem}
 .barmodel .bar .seg{height:2rem}
+
+
+/* Key terms: compact Frayer cards */
+.keyterms{margin:.8rem 0 1.1rem;padding:.7rem .85rem .5rem;border:1px solid var(--rule);background:#f8f6f0;border-radius:4px}
+.keyterms > h4{margin:0 0 .55rem;font-family:var(--sans);font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink)}
+.term{margin:0 0 .7rem;padding:0 0 .65rem;border-bottom:1px solid var(--rule);scroll-margin-top:5.5rem}
+.term:last-child{margin:0;padding:0;border:none}
+.term h5{margin:0 0 .35rem;font-size:1.05rem;display:flex;align-items:center;gap:.4rem;flex-wrap:wrap;font-family:var(--sans)}
+.term .symbol{font-weight:500;color:var(--muted);font-size:.92rem;font-family:var(--serif)}
+.frayer{display:grid;grid-template-columns:1fr 1fr;gap:.35rem .8rem;margin:0}
+.frayer > div{margin:0;min-width:0}
+.frayer dt{font-family:var(--sans);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0}
+.frayer dd{margin:.12rem 0 0;font-size:.95rem}
+.frayer .wide{grid-column:1 / -1}
+.term .diagram{margin:.45rem 0 .15rem;max-width:100%}
+.term .diagram svg{display:block;max-width:100%;height:auto}
+.glossary-list{margin:0 0 1.5rem;padding:0;list-style:none}
+.glossary-list li{margin:0 0 .55rem;padding:.35rem 0;border-bottom:1px solid var(--rule)}
+.glossary-list .term-name{font-weight:700}
+@media (max-width:700px){.frayer{grid-template-columns:1fr}}
+@media print{.term .listen, .keyterms button.listen{display:none !important}}

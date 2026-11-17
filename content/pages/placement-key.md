@@ -61,7 +61,7 @@ The written paragraph guides electives and later projects (for example, whether 
 
 ## History & literature
 
-1. Abraham Lincoln, 19 November 1863, at the dedication of the soldiers' cemetery at Gettysburg, Pennsylvania, addressed to the crowd and the nation, to honour the dead and give the war a purpose.
+1. Abraham Lincoln, 19 November 1863, at the dedication of the soldiers' cemetery at Gettysburg, Pennsylvania, addressed to the crowd and the nation, to honor the dead and give the war a purpose.
 2. 87 years before 1863: **1776**, the Declaration of Independence.
 3. A claim being tested: "testing whether that nation … can long endure."
 4. The reading list guides the literature pace: if the *Iliad* has already been read in full, use the weeks 1–2 literature lessons for rereading and the essay, and begin the *Odyssey* early.
