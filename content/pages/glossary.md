@@ -1,6 +1,6 @@
 # Glossary
 
-Terms taught in weeks 1–23, listed by subject. Each entry links to the lesson that teaches it, where the Frayer card (definition, origin when it is known, example, near-miss, and a connection) is given. Use this page to look a word up; use the week-end vocabulary reviews to retrieve it from memory.
+Terms taught in weeks 1–24, listed by subject. Each entry links to the lesson that teaches it, where the Frayer card (definition, origin when it is known, example, near-miss, and a connection) is given. Use this page to look a word up; use the week-end vocabulary reviews to retrieve it from memory.
 
 Pronunciations are on the lesson page (Hear, in English). Spanish and Latin *words* still have their own Hear-word buttons in those lessons.
 
@@ -1130,3 +1130,4 @@ Pronunciations are on the lesson page (Hear, in English). Spanish and Latin *wor
 - [Week 21 vocabulary review](days/d105.html#vocab) (Friday of week 21; includes spaced items from weeks 1–20)
 - [Week 22 vocabulary review](days/d110.html#vocab) (Friday of week 22; includes spaced items from weeks 1–21)
 - [Week 23 vocabulary review](days/d115.html#vocab) (Friday of week 23; includes spaced items from weeks 1–22)
+- [Week 24 vocabulary review](days/d120.html#vocab) (Friday of week 24; includes spaced items from weeks 1–23)
