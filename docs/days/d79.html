@@ -196,18 +196,19 @@
 <p>A <strong>regular polygon</strong> is already known from Day 37: all sides equal, all interior angles equal. Today’s job is its <strong>area</strong>, not a second first look at the name.</p>
 <p>From the center, the polygon divides into <strong>n congruent isosceles triangles</strong> (n is the number of sides). The perpendicular from the center to a side is the <strong>apothem</strong>. It is the height of each of those triangles (the altitude meets the side at its midpoint, as in last week’s isosceles work).</p>
 <p>Area of one triangle: ½ × (one side) × (apothem). All n of them: <strong>A = ½ × (perimeter) × (apothem)</strong>.</p>
-<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" width="400" height="280" role="img" aria-label="A regular hexagon divided into six equilateral triangles from the center, with a dashed apothem to the middle of one side." class="diagram"></p>
-<pre><code>    &lt;polygon points="200,20 330,95 330,185 200,260 70,185 70,95" fill="#fff" stroke="#222" stroke-width="1.8"/&gt;
-    &lt;line x1="200" y1="140" x2="200" y2="20" stroke="#222" stroke-width="1"/&gt;
-    &lt;line x1="200" y1="140" x2="330" y2="95" stroke="#222" stroke-width="1"/&gt;
-    &lt;line x1="200" y1="140" x2="330" y2="185" stroke="#222" stroke-width="1"/&gt;
-    &lt;line x1="200" y1="140" x2="200" y2="260" stroke="#222" stroke-width="1"/&gt;
-    &lt;line x1="200" y1="140" x2="70" y2="185" stroke="#222" stroke-width="1"/&gt;
-    &lt;line x1="200" y1="140" x2="70" y2="95" stroke="#222" stroke-width="1"/&gt;
-    &lt;line x1="200" y1="140" x2="330" y2="140" stroke="#222" stroke-width="1.2" stroke-dasharray="4 3"/&gt;
-    &lt;text x="205" y="132" font-size="12"&gt;apothem&lt;/text&gt;
-</code></pre>
-<p></svg></p>
+<div class="diagram no-speak">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" width="400" height="280" role="img" aria-label="A regular hexagon divided into six equilateral triangles from the center, with a dashed apothem to the middle of one side.">
+  <polygon points="200,20 330,95 330,185 200,260 70,185 70,95" fill="#fff" stroke="#222" stroke-width="1.8"/>
+  <line x1="200" y1="140" x2="200" y2="20" stroke="#222" stroke-width="1"/>
+  <line x1="200" y1="140" x2="330" y2="95" stroke="#222" stroke-width="1"/>
+  <line x1="200" y1="140" x2="330" y2="185" stroke="#222" stroke-width="1"/>
+  <line x1="200" y1="140" x2="200" y2="260" stroke="#222" stroke-width="1"/>
+  <line x1="200" y1="140" x2="70" y2="185" stroke="#222" stroke-width="1"/>
+  <line x1="200" y1="140" x2="70" y2="95" stroke="#222" stroke-width="1"/>
+  <line x1="200" y1="140" x2="330" y2="140" stroke="#222" stroke-width="1.2" stroke-dasharray="4 3"/>
+  <text x="205" y="132" font-size="12">apothem</text>
+</svg>
+</div>
 <p>Invented classroom measurements, labeled invented: perimeter 48, apothem 7.2, area ½ × 48 × 7.2 = <strong>172.8</strong>. Those two lengths are not official measurements of a monument.</p>
 <p>A <strong>regular hexagon</strong> is a useful special case: it divides into six <strong>equilateral</strong> triangles. For side 6, each triangle has base 6 and height found by Pythagoras, as last week: half-base 3, height √(6² − 3²) = √27 = 3√3. One triangle has area ½ × 6 × 3√3 = 9√3, so the hexagon has area <strong>54√3</strong>. The circle’s area is not begun this week.</p>
 </div>
