@@ -30,4 +30,4 @@ Complete the **[placement diagnostics](placement.html)** over two days. They dec
 
 ## What is here now
 
-Weeks 1–17 are written in full for every subject: eighty-five school days, 680 subject lessons plus a Friday vocabulary review in weeks 1–17, each lesson with exercises and a key. Week 12 is the Term 1 consolidation and term examinations; week 13 opens Term 2, and weeks 14–17 continue it. The rest of the year is laid out in the [scope and sequence](scope.html), and new weeks will be added in the same format. Sources for every method and fact are listed on the [sources page](sources.html).
+Weeks 1–18 are written in full for every subject: ninety school days, 720 subject lessons plus a Friday vocabulary review in weeks 1–18, each lesson with exercises and a key. Week 12 is the Term 1 consolidation and term examinations; week 13 opens Term 2, and weeks 14–18 continue it. The rest of the year is laid out in the [scope and sequence](scope.html), and new weeks will be added in the same format. Sources for every method and fact are listed on the [sources page](sources.html).
