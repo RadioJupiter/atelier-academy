@@ -7,8 +7,8 @@ A 36-week year in three terms of 12 weeks, five school days a week. Weeks 1–36
 | Term | Geometry strand (Kiselev) | Algebra / analysis strand (Gelfand, Russian problem tradition) |
 |---|---|---|
 | 1 (wk 1–12) | Axioms, angles, congruence, parallels, triangle inequalities, loci, constructions with compass and straightedge, quadrilaterals, the circle (chords, tangents, inscribed angles) | Bar-model modeling, identities and factoring, quadratics and Vieta, inequalities and AM–GM, functions and graphs, systems, exponents and radicals, arithmetic and geometric progressions |
-| 2 (wk 13–24) | Similarity, the Pythagorean theorem (several proofs), area, regular polygons and the circumference and area of a circle, geometric constructions and impossibility (discussion) | Trigonometry (Gelfand & Saul): unit circle, identities, laws of sines and cosines; exponential and logarithmic functions; mathematical induction; complex numbers (introduction) |
-| 3 (wk 25–36) | Solid geometry selections (Kiselev, *Stereometry*): lines and planes in space, prisms, pyramids, solids of revolution | Calculus in the Russian tradition: limits, continuity, the derivative and its rules, applications (tangents, optimisation, motion), the integral and the fundamental theorem; daily short problem sets in the style of Demidovich |
+| 2 (wk 13–24) | Similarity, the Pythagorean theorem (several proofs), area, regular polygons and the circumference and area of a circle, geometric constructions and impossibility (discussion); volumes and surface areas of prisms, pyramids, cylinders, cones, spheres, and frustums | Sine, cosine, and tangent of an acute angle in a right triangle, in degrees. Exponential and logarithmic functions, mathematical induction, and complex numbers: next year. |
+| 3 (wk 25–36) | Solid geometry selections (Kiselev, *Stereometry*): lines and planes in space | The unit circle, the laws of sines and cosines, and radian measure; limits, continuity, and the derivative of invented f(x) = x². The derivative’s general rules, applications of the derivative, and the integral and the fundamental theorem: next year. |
 
 ## Writing & Rhetoric
 
@@ -16,47 +16,47 @@ A 36-week year in three terms of 12 weeks, five school days a week. Weeks 1–36
 |---|---|
 | 1 | Sentence control (The Writing Revolution); copywork and *copia*; Franklin's reconstruction method weekly; grammar of the sentence; single-paragraph outlines |
 | 2 | Logic stage: multi-paragraph outlines, summary and précis, argument analysis (Toulmin), fallacies; the analytical essay; Franklin's method on longer models from public-domain authors (Addison, Johnson, Hazlitt, Lincoln) |
-| 3 | Rhetoric stage: the classical *progymnasmata* (fable, narrative, chreia, maxim, refutation, confirmation, commonplace, encomium, comparison, description), persuasive essays, a speech written and delivered from memory |
+| 3 | Rhetoric stage: the classical *progymnasmata* through comparison (fable, narrative, chreia, maxim, refutation, confirmation, commonplace, encomium, invective, comparison). Description, persuasive essays, and a speech written and delivered from memory: next year. |
 
 ## Latin
 
-Ørberg, *Lingua Latina per se Illustrata, Pars I: Familia Romana*: Capitula I–X in Term 1, XI–XVIII in Term 2, XIX–XXV in Term 3, with daily reading aloud, original exercises, and the book's own exercises (*pensa*) as additional practice. *Familia Romana* has 35 chapters; the remainder continues next year. Pace is set by mastery, not by the calendar.
+Ørberg, *Lingua Latina per se Illustrata, Pars I: Familia Romana*: Capitula I–X in Term 1, XI–XVI in Term 2, with daily reading aloud, original exercises, and the book's own exercises (*pensa*) as additional practice. Term 3 continues with already-taught verbs in purpose and result clauses, in original sentences. *Familia Romana* has 35 chapters; Capitula XVII onward continue next year. Pace is set by mastery, not by the calendar.
 
 ## Atelier
 
 | Term | Sequence |
 |---|---|
 | 1 | Line and proportion drills; Bargue plates, Part I (features, then heads); value scales; light on simple forms; cast drawing of simple casts (features, ornament) |
-| 2 | Cast drawing of a full head; Bargue plates, Part II (copies after master drawings); grisaille painting (monochrome value painting); introduction to oil or acrylic handling |
-| 3 | Color: a limited palette (yellow ochre, red, black, white), color-value studies, still life in full color, master copy in color; first portrait and figure studies from life |
+| 2 | Cast drawing of a full head; Bargue plates, Part II (copies after master drawings); grisaille painting (monochrome value painting). Introduction to oil or acrylic handling: next year. |
+| 3 | Color: a limited palette (yellow ochre, red, black, white), color-value studies, and still life in that limited palette. A fifth tube, a master copy in color, and first portrait and figure studies from life: next year. |
 
 ## Physics (Peer Instruction)
 
-Term 1: kinematics, Newton's laws, friction, motion in two dimensions, circular motion, momentum. Term 2: work and energy, rotation, gravitation and orbits, oscillations. Term 3: waves and sound, geometric optics (lenses, the eye, the camera), electric charge, circuits, magnetism.
+Term 1: kinematics, Newton's laws, friction, motion in two dimensions, circular motion, momentum. Term 2: work and energy, rotation, gravitation and orbits, oscillations, waves and sound. Term 3: geometric optics (refraction, Snell's law, total internal reflection). Electric charge and circuits appear in the Term 3 science module *Electricity at home*. Magnetism: next year.
 
 ## Science (phenomenon modules)
 
 Each module starts from a real phenomenon and draws on chemistry, biology, physics and Earth science, with olympiad-style problem sets.
 - Term 1: *Fire and air* (combustion, gases) · *The color of the sky* (light, scattering, polarization) · *Why oil paint dries* (oxidation and polymerization of drying oils; the chemistry of pigments)
 - Term 2: *Living color* (photosynthesis, plant pigments, chromatography) · *How we see* (eye, retina, color vision, illusions) · *Water* (states, surface tension, solutions)
-- Term 3: *From rock to pigment* (minerals, ochres, lapis lazuli to ultramarine) · *Electricity at home* · *Weather and climate*
+- Term 3: *From rock to pigment* (minerals, ochres, lapis lazuli to ultramarine) · *Electricity at home*. *Weather and climate*: next year.
 
 ## History (chronological, primary sources)
 
-Term 1: the ancient Near East, Egypt, Greece, the Hellenistic world, Rome (Republic and Empire). Term 2: late antiquity, Byzantium, the Islamic world, medieval Europe, the Renaissance and Reformation. Term 3: exploration and empires, the Scientific Revolution, the Enlightenment, the age of revolutions, the 19th and 20th centuries.
+Term 1: the ancient Near East, Egypt, Greece, the Hellenistic world, Rome (Republic and Empire). Term 2: late antiquity and Byzantium. The Islamic world, medieval Europe, and the Renaissance and Reformation: next year. Term 3: exploration and empires (the Columbus letters and the Treaty of Tordesillas). The Scientific Revolution, the Enlightenment, the age of revolutions, and the 19th and 20th centuries: next year.
 
 ## Literature (great books)
 
-Term 1: Homer, *Iliad* and *Odyssey*; Sophocles, *Antigone*; Virgil, *Aeneid* (selected books). Term 2: Dante, *Inferno*; Chaucer (selections); Shakespeare, *Macbeth* and the sonnets; Cervantes, *Don Quixote* (selections). Term 3: Austen, *Pride and Prejudice*; Mary Shelley, *Frankenstein*; Tolstoy, *The Death of Ivan Ilyich*; a poetry anthology from Wordsworth to the 20th century.
+Term 1: Homer, *Iliad* and *Odyssey*; Sophocles, *Antigone*; Virgil, *Aeneid* (selected books), in set extracts. Term 2: Dante, *Inferno*, in set Longfellow extracts. Chaucer, Shakespeare (*Macbeth* and the sonnets), and Cervantes (*Don Quixote*): next year. Term 3: Austen, *Pride and Prejudice* (1813 wording, set extracts through Volume I, Chapter 11). Mary Shelley, *Frankenstein*; Tolstoy, *The Death of Ivan Ilyich*; and a poetry anthology from Wordsworth to the 20th century: next year.
 
 ## Seminar rotation
 
 - **Logic:** propositional logic (Term 1); categorical syllogisms and informal fallacies (Term 2); probability and evidence (Term 3).
-- **Music theory:** notation, scales, key signatures, intervals (Term 1); triads, chords, cadences, simple harmony (Term 2); form and listening (Term 3), with ear training throughout.
-- **Art history:** chronological alongside History: prehistoric to Roman (Term 1), medieval to Renaissance (Term 2), Baroque to modern (Term 3).
-- **Economics & personal finance:** scarcity, choice, markets, prices (Term 1); money, banking, interest, budgets, credit (Term 2); investing, taxes, insurance, and introductory macroeconomics (Term 3).
+- **Music theory:** notation, scales, key signatures, intervals (Term 1); triads, chords, cadences, simple harmony (Term 2); form (binary and ternary form, on invented figures) (Term 3).
+- **Art history:** chronological alongside History: prehistoric to Roman (Term 1); late antiquity and Justinian’s Buildings (Term 2, and continuing in Term 3). Medieval to Renaissance, and Baroque to modern: next year.
+- **Economics & personal finance:** scarcity, choice, markets, prices (Term 1); money, banking, interest, budgets, credit (Term 2); investing, taxes, and insurance, in labeled invented figures (Term 3). Introductory macroeconomics: next year.
 - **Electives:** see [Electives](electives.html).
 
 ## Modern language
 
-The language of instruction for the whole course is English. Spanish is taught as a daily subject (see [Electives](electives.html) if another modern language is preferred): present tense and core vocabulary (Term 1), past tenses (Term 2), future, conditional and introduction to the subjunctive (Term 3), with graded readers from Term 2. Latin is a separate daily subject, taught from *Lingua Latina per se Illustrata*.
+The language of instruction for the whole course is English. Spanish is taught as a daily subject (see [Electives](electives.html) if another modern language is preferred): present tense and core vocabulary (Term 1); past tenses (Term 2); future, conditional, an introduction to the subjunctive, and irregular participles with the present perfect (Term 3). Graded readers: next year. Latin is a separate daily subject, taught from *Lingua Latina per se Illustrata* in Terms 1–2, and in Term 3 through original sentences using already-taught forms.

@@ -50,7 +50,7 @@ The written lessons use explicit instruction of sounds, high-frequency words and
 
 ## History and literature
 
-History is taught **chronologically**, from **primary sources** with explicit sourcing, corroboration and contextualisation. Literature is the **great books**, read whole, discussed in writing and used as material for the writing course.
+History is taught **chronologically**, from **primary sources** with explicit sourcing, corroboration and contextualisation. Literature is the **great books**, read in set extracts, discussed in writing and used as material for the writing course.
 
 ## The seminar subjects
 

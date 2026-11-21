@@ -69,9 +69,9 @@ The written paragraph guides electives and later projects (for example, whether 
 ## Modern language
 
 1. As on Day 10's key. 2. *Yesterday we went to the museum and saw paintings by Velázquez.* (*fuimos* and *vimos* are preterite.)
-**Routing.** "None" or errors in 1: begin at Day 1. All correct: Days 1–10 serve as quick review (one a day, 10 minutes), and the remaining time goes to reading graded readers in the language; a past-tense unit is *planned* for weeks 3–4.
+**Routing.** "None" or errors in 1: begin at Day 1. All correct: Days 1–10 serve as quick review (one a day, 10 minutes). Past tenses begin in Term 2 (week 13), not in weeks 3–4.
 
 ## Music
 
 1. Treble: E G B D F; bass: G B D F A · 2. D E F♯ G A B C♯ D · 3. Seven; four · 4. C–E–G; A–C–E.
-**Routing.** All correct: skip the weeks 1–2 music theory lessons and begin intervals and triads (*planned* for weeks 3–4).
+**Routing.** All correct: skip the weeks 1–2 music theory lessons and begin intervals and triads (weeks 3–4).
